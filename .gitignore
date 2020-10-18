@@ -1,0 +1,9 @@
+# IDEA project folder/files
+.idea/
+*.iml
+
+# macOS files
+.DS_Store
+
+# Java output folder
+out/
